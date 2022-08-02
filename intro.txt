@@ -9,5 +9,6 @@ Créé le 02/08/2022 par Laurent Quenon
 commentaires sur le dossier
 
 *********************************************
-
+le dossier a été synchronisé avec le remote 
+repo
 *********************************************
